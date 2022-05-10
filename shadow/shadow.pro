@@ -31,7 +31,7 @@ SOURCES += main.cpp\
 HEADERS  += mainwindow.h
 
 INCLUDEPATH += D:/project/lib-collection/include/opencv45
-INCLUDEPATH += D:/project/microsoft/vcpkg/installed/x64-windows/include D:/project/ddtest/ddtest
+INCLUDEPATH += D:/project/microsoft/vcpkg/installed/x64-windows/include
 INCLUDEPATH += D:/project/nb/
 LIBS += -LD:/project/lib-collection/lib/x64 -lopencv_world454
 LIBS += -LD:/project/microsoft/vcpkg/installed/x64-windows/lib -lfreetype -liconv
